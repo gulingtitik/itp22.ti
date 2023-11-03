@@ -1,0 +1,66 @@
+.login {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+  background-image: url(img/login.jpg);
+  background-size: cover;
+  padding-top: 5;
+}
+.registrasi {
+  padding-top: 5%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+  background-image: url(img/login.jpg);
+  background-size: cover;
+  padding-top: 5;
+}
+.navbar-nav > li {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.button > li {
+  float: right;
+}
+
+#about {
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  padding: 6rem 1rem;
+  background-color: #2258a9;
+  color: rgb(255, 255, 255);
+}
+
+.card {
+  position: relative; /* Menggunakan posisi relatif */
+  top: 50px; /* Mengubah posisi vertikal, ganti nilai sesuai kebutuhan Anda */
+  left: 20px; /* Mengubah posisi horizontal, ganti nilai sesuai kebutuhan Anda */
+}
+
+.sign_up {
+  background-color: #f4f4f4;
+  left: 50%;
+  top: 50%;
+  margin-left: -25%;
+  position: absolute;
+  margin-top: -25%;
+}
+#contact {
+  background-color: #ffffff;
+  color: rgb(24, 24, 24);
+  padding-top: 5%;
+}
+#partner {
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  padding-top: 5%;
+}
